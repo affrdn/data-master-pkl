@@ -1,0 +1,78 @@
+<nav class="navbar navbar-responsive navbar-light bg-primary">
+
+        <div class="col-xs col-mr-0">
+            <button class="navbar-toggler" role="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="d-block d-sm-none d-md-none navbar-toggler-icon"></span>
+            </button>
+            <a class="col-pr col-mr-0 navbar-brand" href="/">
+                <div class="h-100" style="width: 80px;">
+                    <img src="https://siakadu.unila.ac.id/assets/v1/img/logo_unila.png" class="img-fluid max-width:80px" alt="Responsive image" loading="lazy">
+                </div>
+            </a>
+        </div>
+        <div class="col-md">
+            <font face="Tahoma" size="6">
+                FMIPA UNILA
+            </font>
+            <br>
+            <font face="Tahoma" size="4">
+                Fakultas Matematika dan Ilmu Pengetahuan Alam
+            </font>
+        </div>
+
+    </nav>
+
+    <div class=" row no-gutters">
+        <div class="collapse navbar-collapse col-md" id="navbarToggleExternalContent">
+            <div class="col-md-2 bg-light">
+                <ul class="navbar-nav flex-column">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Data
+                        </a>
+                        <hr class="bg-secendary">
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="/pages/dosen">Dosen</a>
+                            <hr class="bg-secendary">
+                            <a class="dropdown-item" href="/pages/tendik">Tenaga Pendidik</a>
+                            <hr class="bg-secendary">
+                            <a class="dropdown-item" href="/pages/mahasiswa">Mahasiswa</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Jurusan</a>
+                        <hr class="bg-secendary">
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Program Studi</a>
+                        <hr class="bg-secendary">
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Laboratorium</a>
+                        <hr class="bg-secendary">
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Gedung</a>
+                        <hr class="bg-secendary">
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Jabaran Struktural</a>
+                        <hr class="bg-secendary">
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Tugas Tambahan</a>
+                        <hr class="bg-secendary">
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Pejabat Struktural</a>
+                        <hr class="bg-secendary">
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Dosen Tugas Tambahan</a>
+                        <hr class="bg-secendary">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    </div>
