@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/affrdn/data-master-pkl"
+    "url": "git+https://github.com/affrdn/data-master-pkl.git"
   },
   "author": "affrdn",
   "license": "ISC",
@@ -21,5 +21,6 @@
   "homepage": "https://github.com/affrdn/data-master-pkl#readme",
   "dependencies": {
     "ci4-pkl": "^1.1.4"
-  }
+  },
+  "devDependencies": {}
 }
