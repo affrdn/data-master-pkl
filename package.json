@@ -6,9 +6,7 @@
   "directories": {
     "test": "tests"
   },
-  "dependencies": {
-    "ci4-pkl": "^1.1.4"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
