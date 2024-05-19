@@ -1,7 +1,7 @@
 {
   "name": "ci4-pkl",
   "version": "1.0.0",
-  "description": "CodeIgniter is a PHP full-stack web framework that is light, fast, flexible, and secure. \r More information can be found at the [official site](http://codeigniter.com).",
+  "description": "## What is CodeIgniter?",
   "main": "index.js",
   "directories": {
     "test": "tests"
