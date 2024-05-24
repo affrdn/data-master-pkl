@@ -1,5 +1,5 @@
 {
-  "name": "@affrdn/ci4-pkl",
+  "name": "ci4-pkl",
   "version": "1.0.0",
   "description": "## What is CodeIgniter?",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "type": "git",
     "url": "https://github.com/affrdn/data-master-pkl"
   },
-  "author": "",
+  "author": "affrdn",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/affrdn/data-master-pkl/issues"
